@@ -1,17 +1,3 @@
-
-Ran tool
-
-Read file: FaturaKasaSistemi/DbConfig.cs
-
-Read file: FaturaKasaSistemi/README.md
-
-Read file: FaturaKasaSistemi/FaturaKasaSistemi.csproj
-
-Read file: FaturaKasaSistemi/Program.cs
-Aşağıda, **hiçbir detayı atlamadan**, yaşadığımız tüm problemleri ve çözüm yollarını da göz önünde bulundurarak, yeni bir kullanıcı veya geliştirici için sıfırdan sorunsuz kurulum ve kullanım sağlayacak şekilde kapsamlı bir `README.md` hazırladım.
-
----
-
 # Fatura Kasa Sistemi
 
 C# (.NET 8.0) ve Windows Forms ile geliştirilmiş, MySQL tabanlı, kullanıcı dostu bir fatura ve kasa yönetim sistemidir.  
